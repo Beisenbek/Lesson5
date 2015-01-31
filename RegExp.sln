@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExp", "RegExp\RegExp.csproj", "{32511424-23AF-4C90-A31A-F975C69A4409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExp2", "RegExp2\RegExp2.csproj", "{4A9910E6-2D0B-4418-BD24-705D639695D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestRegExp2", "UnitTestRegExp2\UnitTestRegExp2.csproj", "{5001C5DB-48A5-44B2-B600-7DD4EAD2CBF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32511424-23AF-4C90-A31A-F975C69A4409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32511424-23AF-4C90-A31A-F975C69A4409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32511424-23AF-4C90-A31A-F975C69A4409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32511424-23AF-4C90-A31A-F975C69A4409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9910E6-2D0B-4418-BD24-705D639695D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9910E6-2D0B-4418-BD24-705D639695D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9910E6-2D0B-4418-BD24-705D639695D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9910E6-2D0B-4418-BD24-705D639695D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5001C5DB-48A5-44B2-B600-7DD4EAD2CBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5001C5DB-48A5-44B2-B600-7DD4EAD2CBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5001C5DB-48A5-44B2-B600-7DD4EAD2CBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5001C5DB-48A5-44B2-B600-7DD4EAD2CBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
