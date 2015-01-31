@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExp2", "RegExp2\RegExp2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestRegExp2", "UnitTestRegExp2\UnitTestRegExp2.csproj", "{5001C5DB-48A5-44B2-B600-7DD4EAD2CBF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExp3", "RegExp3\RegExp3.csproj", "{236170AB-9409-48FC-8305-C47D77E9B3B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5001C5DB-48A5-44B2-B600-7DD4EAD2CBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5001C5DB-48A5-44B2-B600-7DD4EAD2CBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5001C5DB-48A5-44B2-B600-7DD4EAD2CBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236170AB-9409-48FC-8305-C47D77E9B3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236170AB-9409-48FC-8305-C47D77E9B3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236170AB-9409-48FC-8305-C47D77E9B3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236170AB-9409-48FC-8305-C47D77E9B3B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
